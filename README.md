@@ -17,6 +17,13 @@ Enlisting all interview questions of 2026!
 
 ## JS
 
+1. [Simplilearn — JavaScript Interview Questions](https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-interview-questions)
+2. [CodeForGeek — Top 50 JavaScript Interview Questions and Answers](https://codeforgeek.com/top-50-javascript-interview-questions-and-answers/#google_vignette)
+3. [foundit — JavaScript Interview Questions and Answers](https://www.foundit.in/career-advice/javascript-interview-questions-and-answers/)
+4. [GeeksforGeeks — JavaScript Interview Questions](https://www.geeksforgeeks.org/javascript/javascript-interview-questions/)
+5. [Index.dev — JavaScript Developer Interview Questions](https://www.index.dev/interview-questions/javascript-developer)
+
+
 ## ReactJS
 
 ## MaterialUI
