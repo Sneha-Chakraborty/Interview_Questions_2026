@@ -22,6 +22,7 @@ Enlisting all interview questions of 2026!
 3. [foundit — JavaScript Interview Questions and Answers](https://www.foundit.in/career-advice/javascript-interview-questions-and-answers/)
 4. [GeeksforGeeks — JavaScript Interview Questions](https://www.geeksforgeeks.org/javascript/javascript-interview-questions/)
 5. [Index.dev — JavaScript Developer Interview Questions](https://www.index.dev/interview-questions/javascript-developer)
+6. [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
 
 
 ## ReactJS
