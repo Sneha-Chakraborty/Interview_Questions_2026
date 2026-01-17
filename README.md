@@ -29,7 +29,8 @@ Enlisting all interview questions of 2026!
 
 1. [Simplilearn — ReactJS Interview Questions](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions)
 2. [CodeForGeek — 50 React Interview Questions You Must Know](https://codeforgeek.com/50-react-interview-questions-you-must-know/)
-3. 
+3. [React Interview Questions — GeeksforGeeks](https://www.geeksforgeeks.org/reactjs/react-interview-questions/)
+
 
 
 ## MaterialUI
