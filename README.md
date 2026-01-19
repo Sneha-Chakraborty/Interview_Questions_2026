@@ -31,11 +31,12 @@ Enlisting all interview questions of 2026!
 2. [CodeForGeek — 50 React Interview Questions You Must Know](https://codeforgeek.com/50-react-interview-questions-you-must-know/)
 3. [React Interview Questions — GeeksforGeeks](https://www.geeksforgeeks.org/reactjs/react-interview-questions/)
 4. [ReactJS Interview Questions — GitHub](https://github.com/sudheerj/reactjs-interview-questions)
-5. 
-
 
 
 ## MaterialUI
+1. [Simplilearn — Top UI Developer Interview QnA](https://www.simplilearn.com/top-ui-developer-interview-questions-and-answers-article)
+2. 
+
 
 ## NodeJS
 
