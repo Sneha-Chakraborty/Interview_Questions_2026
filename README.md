@@ -35,7 +35,8 @@ Enlisting all interview questions of 2026!
 
 ## MaterialUI
 1. [Simplilearn — Top UI Developer Interview QnA](https://www.simplilearn.com/top-ui-developer-interview-questions-and-answers-article)
-2. 
+2. [RemoteRocketShip — Material UI Interview Questions and Answers](https://www.remoterocketship.com/advice/10-material-ui-interview-questions-and-answers-in-2023/)
+
 
 
 ## NodeJS
