@@ -41,7 +41,8 @@ Enlisting all interview questions of 2026!
 
 ## NodeJS
 1. [Simplilearn — Node.js Interview Questions](https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions)
-2. 
+2. [Index.dev — Node.js Interview Questions](https://www.index.dev/interview-questions/node-js)
+
 
 
 ## ExpressJS
