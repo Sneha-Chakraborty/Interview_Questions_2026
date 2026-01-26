@@ -44,7 +44,9 @@ Enlisting all interview questions of 2026!
 2. [Index.dev — Node.js Interview Questions](https://www.index.dev/interview-questions/node-js)
 3. [Devinterview-io — Node Interview Questions](https://github.com/Devinterview-io/node-interview-questions)
 4. [Hackr.io — Node.js Interview Questions](https://hackr.io/blog/node-js-interview-questions)
-5. 
+5. [Foundit — Node.js Interview Questions and Answers](https://www.foundit.in/career-advice/nodejs-interview-questions-answers/)
+6. 
+
 
 
 
