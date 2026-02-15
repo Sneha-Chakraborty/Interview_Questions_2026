@@ -67,5 +67,12 @@ Enlisting all interview questions of 2026!
 5. [Hynts — Most Asked MongoDB Questions](https://www.hynts.in/preparation/most-asked-questions/mongodb-questions)
 6. [InterviewGrid — MongoDB Interview Questions](https://www.interviewgrid.com/interview_questions/mongodb)
 7. [GeeksforGeeks — MongoDB Interview Questions](https://www.geeksforgeeks.org/mongodb/mongodb-interview-questions/)
+
+# Java FullStack Interview Questions 2026
+
+## Java
+1. [Placementdriveinsta — Java Interview Questions and Answers 2026](https://placementdriveinsta.in/java-interview-questions-and-answers-2026/)
+2. 
+
    
 
