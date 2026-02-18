@@ -75,6 +75,7 @@ Enlisting all interview questions of 2026!
 ## Java
 1. [Placementdriveinsta — Java Interview Questions and Answers 2026](https://placementdriveinsta.in/java-interview-questions-and-answers-2026/)
 2. [WeCreateProblems — Java Interview Questions](https://www.wecreateproblems.com/interview-questions/java-interview-questions)
-3.  
+3. [Codegnan — Java Interview Questions](https://codegnan.com/java-interview-questions/)
+4. 
    
 
