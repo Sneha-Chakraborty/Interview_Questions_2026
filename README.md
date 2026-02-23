@@ -80,6 +80,7 @@ Enlisting all interview questions of 2026!
 
 
 ## Hibernate
-1. 
+1. [(WeCreateProblems — Hibernate Interview Questions](https://www.wecreateproblems.com/interview-questions/hibernate-interview-questions)
+2. 
    
 
