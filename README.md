@@ -82,5 +82,8 @@ Enlisting all interview questions of 2026!
 ## Hibernate
 1. [(WeCreateProblems — Hibernate Interview Questions](https://www.wecreateproblems.com/interview-questions/hibernate-interview-questions)
 2. [Intellipaat — Hibernate Interview Questions and Answers](https://intellipaat.com/blog/interview-question/hibernate-interview-questions/)
-3. 
+
+## JPA
+1. [GeeksforGeeks — Spring Data JPA Interview Questions](https://www.geeksforgeeks.org/advance-java/spring-data-jpa-interview-questions/)
+2. 
 
