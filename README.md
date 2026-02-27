@@ -85,5 +85,5 @@ Enlisting all interview questions of 2026!
 
 ## JPA
 1. [GeeksforGeeks — Spring Data JPA Interview Questions](https://www.geeksforgeeks.org/advance-java/spring-data-jpa-interview-questions/)
-2. 
-
+2. [ProjectPractical — Spring Data JPA Interview Questions and Answers](https://www.projectpractical.com/spring-data-jpa-interview-questions-and-answers/)
+3. 
