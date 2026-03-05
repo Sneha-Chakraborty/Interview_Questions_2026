@@ -94,4 +94,5 @@ Enlisting all interview questions of 2026!
 3. [Testmuai — Spring Interview Questions](https://www.testmuai.com/learning-hub/spring-interview-questions/)
 
 ## Spring MVC
-1. 
+1. [GeeksforGeeks — Spring MVC Interview Questions](https://www.geeksforgeeks.org/springboot/spring-mvc-interview-questions/)
+2. 
