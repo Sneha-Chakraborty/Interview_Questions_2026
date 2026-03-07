@@ -95,4 +95,7 @@ Enlisting all interview questions of 2026!
 
 ## Spring MVC
 1. [GeeksforGeeks — Spring MVC Interview Questions](https://www.geeksforgeeks.org/springboot/spring-mvc-interview-questions/)
-2. 
+2. [Baeldung — Spring MVC Interview Questions](https://www.baeldung.com/spring-mvc-interview-questions)
+
+## Spring Boot
+1. 
