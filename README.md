@@ -98,4 +98,5 @@ Enlisting all interview questions of 2026!
 2. [Baeldung — Spring MVC Interview Questions](https://www.baeldung.com/spring-mvc-interview-questions)
 
 ## Spring Boot
-1. 
+1. [InterviewBit — Spring Boot Interview Questions](https://www.interviewbit.com/spring-boot-interview-questions/)
+2. 
