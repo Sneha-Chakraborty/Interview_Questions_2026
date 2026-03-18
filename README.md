@@ -102,4 +102,6 @@ Enlisting all interview questions of 2026!
 2. [TestmuAI — Spring Boot Interview Questions](https://www.testmuai.com/learning-hub/spring-boot-interview-questions/)
 3. [SoftwareTestingHelp — Spring Boot Interview Questions](https://www.softwaretestinghelp.com/spring-boot-interview-questions/)
 4. [Guru99 — 70 Spring Boot Interview Questions and Answers (2026)](https://www.guru99.com/spring-boot-interview-questions.html)
-5. 
+5. [WeCreateProblems — Spring Boot Interview Questions](https://www.wecreateproblems.com/interview-questions/spring-boot-interview-questions)
+
+## 
