@@ -104,4 +104,6 @@ Enlisting all interview questions of 2026!
 4. [Guru99 — 70 Spring Boot Interview Questions and Answers (2026)](https://www.guru99.com/spring-boot-interview-questions.html)
 5. [WeCreateProblems — Spring Boot Interview Questions](https://www.wecreateproblems.com/interview-questions/spring-boot-interview-questions)
 
-## 
+## Maven
+1. [Simplilearn — Top 50 Maven Interview Questions and Answers](https://www.simplilearn.com/tutorials/maven-tutorial/maven-interview-questions)
+2. 
