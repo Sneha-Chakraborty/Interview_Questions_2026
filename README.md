@@ -109,4 +109,6 @@ Enlisting all interview questions of 2026!
 2. [TestmuAI — Top 50+ Maven Interview Questions](https://www.testmuai.com/learning-hub/maven-interview-questions/)
 3. [JavaInUse — Maven Interview Questions](https://www.javainuse.com/misc/maven-interview-questions)
 4. [SoftwareTestingHelp — Maven Interview Questions](https://www.softwaretestinghelp.com/maven-interview-questions/)
-5. 
+5. [GeeksforGeeks — Top 25 Maven Interview Questions and Answers](https://www.geeksforgeeks.org/devops/maven-interview-questions/)
+
+## 
