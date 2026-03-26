@@ -111,4 +111,6 @@ Enlisting all interview questions of 2026!
 4. [SoftwareTestingHelp — Maven Interview Questions](https://www.softwaretestinghelp.com/maven-interview-questions/)
 5. [GeeksforGeeks — Top 25 Maven Interview Questions and Answers](https://www.geeksforgeeks.org/devops/maven-interview-questions/)
 
-## 
+## Apache Ant
+1. [InterviewGIG — Ant Interview Questions and Answers](https://www.interviewgig.com/ant-interview-questions-and-answers/)
+2. 
