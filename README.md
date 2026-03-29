@@ -117,4 +117,5 @@ Enlisting all interview questions of 2026!
 3. [The Knowledge Academy — Top 30+ Apache Interview Questions and Answers](https://www.theknowledgeacademy.com/blog/apache-interview-questions/)
 
 ## Gradle
-1. 
+1. [JavaInUse — Gradle Interview Questions](https://www.javainuse.com/misc/gradle-interview-questions)
+2. 
