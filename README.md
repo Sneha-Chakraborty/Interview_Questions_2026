@@ -118,4 +118,5 @@ Enlisting all interview questions of 2026!
 
 ## Gradle
 1. [JavaInUse — Gradle Interview Questions](https://www.javainuse.com/misc/gradle-interview-questions)
-2. 
+2. [JavaGuides — Top 10 Gradle Interview Questions](https://www.javaguides.net/2024/06/top-10-gradle-interview-questions.html)
+3. 
