@@ -70,6 +70,10 @@ Enlisting all interview questions of 2026!
 6. [InterviewGrid — MongoDB Interview Questions](https://www.interviewgrid.com/interview_questions/mongodb)
 7. [GeeksforGeeks — MongoDB Interview Questions](https://www.geeksforgeeks.org/mongodb/mongodb-interview-questions/)
 
+
+## REST API
+1. 
+
 # Java FullStack 2026
 
 ## Java
@@ -121,4 +125,6 @@ Enlisting all interview questions of 2026!
 2. [JavaGuides — Top 10 Gradle Interview Questions](https://www.javaguides.net/2024/06/top-10-gradle-interview-questions.html)
 3.  [CrowdforGeeks — Top 100 Gradle Interview Questions and Answers](http://crowdforgeeks.com/interview-questions/top-100-gradle-interview-questions-and-answers)
 4. [Credmark — Gradle interview questions and answers](https://credmark.ai/practice/top-gradle-interview-questions-and-answers)
-5. 
+5. [Engineeringinterviewquestions — Gradle Interview Questions and Answers](https://engineeringinterviewquestions.com/gradle-interview-questions-answers-pdf/)
+
+## 
