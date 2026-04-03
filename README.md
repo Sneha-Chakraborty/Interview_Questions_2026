@@ -72,7 +72,8 @@ Enlisting all interview questions of 2026!
 
 
 ## REST API
-1. 
+1. [InterviewBit — Top REST API Interview Questions and Answers](https://www.interviewbit.com/rest-api-interview-questions/)
+2. 
 
 # Java FullStack 2026
 
