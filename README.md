@@ -78,6 +78,8 @@ Enlisting all interview questions of 2026!
 4. [WeCreateProblems — REST API Interview Questions](https://www.wecreateproblems.com/interview-questions/rest-api-interview-questions)
 5. [Simplilearn — REST API Interview Questions and Answers](https://www.simplilearn.com/rest-api-interview-questions-answers-article)
 6. [PlacementPreparation.io — REST API Interview Questions](https://www.placementpreparation.io/blog/rest-api-interview-questions/)
+7. [Intellipaat — Top 35+ REST API Interview Questions and Answers](https://intellipaat.com/blog/interview-question/rest-api-interview-questions/)
+8. 
 
 # Java FullStack 2026
 
