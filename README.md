@@ -136,4 +136,6 @@ Enlisting all interview questions of 2026!
 4. [Credmark — Gradle interview questions and answers](https://credmark.ai/practice/top-gradle-interview-questions-and-answers)
 5. [Engineeringinterviewquestions — Gradle Interview Questions and Answers](https://engineeringinterviewquestions.com/gradle-interview-questions-answers-pdf/)
 
-## 
+## Apache Tomcat
+1. [ACTE — Apache Tomcat Interview Questions and Answers](https://intellipaat.com/blog/interview-question/hibernate-interview-questions/)
+2. 
