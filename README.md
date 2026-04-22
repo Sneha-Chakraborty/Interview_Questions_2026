@@ -141,4 +141,5 @@ Enlisting all interview questions of 2026!
 2. [Guru99 Career — Top 16 Tomcat Interview Questions and Answers](https://career.guru99.com/top-16-tomcat-interview-questions/)
 3. [SoftwareTestingHelp — Apache Tomcat Interview Questions](https://www.softwaretestinghelp.com/apache-tomcat-interview-questions/)
 4. [InterviewPrep — Top 25 Apache Tomcat Interview Questions and Answers](https://interviewprep.org/apache-tomcat-interview-questions/)
-5. 
+5. [Adaface — Apache Tomcat Interview Questions](https://www.adaface.com/blog/apache-tomcat-interview-questions/)
+6. 
