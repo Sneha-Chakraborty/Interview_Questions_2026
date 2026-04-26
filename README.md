@@ -144,4 +144,5 @@ Enlisting all interview questions of 2026!
 5. [Adaface — Apache Tomcat Interview Questions](https://www.adaface.com/blog/apache-tomcat-interview-questions/)
 6. [ResumeDesign.ai — Tomcat Interview Questions](https://resumedesign.ai/interview-questions/tomcat/)
 7. [EngineeringInterviewQuestions — Apache Tomcat Interview Questions and Answers](https://engineeringinterviewquestions.com/apache-tomcat-interview-questions-answers/)
-8. 
+8. [MaxResumes — Top 20 Tomcat Interview Questions and Answers](https://maxresumes.com/interview-questions/top-20-tomcat-interview-questions-and-answers/)
+9. 
