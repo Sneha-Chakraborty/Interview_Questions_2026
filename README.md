@@ -150,4 +150,5 @@ Enlisting all interview questions of 2026!
 
 ## Docker
 1. [GeeksforGeeks — Top 50+ Docker Interview Questions and Answers](https://www.geeksforgeeks.org/devops/docker-interview-questions/)
-2. 
+2. [Dataquest — 30 Docker Interview Questions and Answers (2026)](https://www.dataquest.io/blog/docker-interview-questions-and-answers/)
+3. 
