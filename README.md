@@ -1,7 +1,7 @@
 # Interview_Questions_2026
 Enlisting all interview questions of 2026!
 
-## WebDev and MERN 2026
+## WebDev 2026
 
 ## HTML
 1. [GUVI — Top Basic HTML Interview Questions](https://www.guvi.in/blog/top-basic-html-interview-questions/)
