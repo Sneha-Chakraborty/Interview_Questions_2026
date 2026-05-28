@@ -157,4 +157,5 @@ Enlisting all interview questions of 2026!
 6. [WeCreateProblems — Docker Interview Questions](https://www.wecreateproblems.com/interview-questions/docker-interview-questions)
 7. [Guru99 — Docker Interview Questions](https://www.guru99.com/docker-interview-questions.html)
 8. [DevOpsBoys — Docker Interview Prep](https://devopsboys.com/interview-prep/docker)
-9. 
+9. [PapersAdda — Docker Interview Questions 2026](https://papersadda.com/article/docker-interview-questions-2026/)
+
