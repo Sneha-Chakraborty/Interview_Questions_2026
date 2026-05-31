@@ -161,5 +161,6 @@ Enlisting all interview questions of 2026!
 10. [Hynts — Most Asked Docker Questions](https://www.hynts.in/preparation/most-asked-questions/docker-questions)
 
 ## Kubernetes
-1. 
+1. [DataCamp — Kubernetes Interview Questions](https://www.datacamp.com/blog/kubernetes-interview-questions)
+2. 
 
