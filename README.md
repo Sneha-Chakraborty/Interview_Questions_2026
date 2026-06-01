@@ -162,5 +162,6 @@ Enlisting all interview questions of 2026!
 
 ## Kubernetes
 1. [DataCamp — Kubernetes Interview Questions](https://www.datacamp.com/blog/kubernetes-interview-questions)
-2. 
+2. [WeCreateProblems — Kubernetes Interview Questions](https://www.wecreateproblems.com/interview-questions/kubernetes-interview-questions)
+3. 
 
