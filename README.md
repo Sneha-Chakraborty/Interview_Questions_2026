@@ -167,3 +167,6 @@ Enlisting all interview questions of 2026!
 4. [Hynts — Most Asked Kubernetes Questions](https://www.hynts.in/preparation/most-asked-questions/kuberneties-questions)
 5. 
 
+## Python
+1. [InterviewBit — Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
+2. 
