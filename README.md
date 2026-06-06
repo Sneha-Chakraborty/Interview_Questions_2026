@@ -167,7 +167,8 @@ Enlisting all interview questions of 2026!
 4. [Hynts — Most Asked Kubernetes Questions](https://www.hynts.in/preparation/most-asked-questions/kuberneties-questions)
 5. [PapersAdda — Kubernetes Interview Questions for Freshers 2026](https://papersadda.com/article/kubernetes-interview-questions-freshers-2026/)
 6. [GitGood — Top 50 Kubernetes Interview Questions 2026](https://gitgood.dev/blog/top-50-kubernetes-interview-questions-2026)
-7. 
+7. [TpointTech — Kubernetes Interview Questions](https://www.tpointtech.com/kubernetes-interview-questions)
+8. 
 
 ## Python
 1. [InterviewBit — Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
