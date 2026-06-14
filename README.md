@@ -177,5 +177,6 @@ Enlisting all interview questions of 2026!
 3. [AskPython — Python Interview Questions](https://www.askpython.com/python/python-interview-questions)
 4. [Dataquest — Python Interview Questions and Answers](https://www.dataquest.io/blog/python-interview-questions-and-answers/)
 5. [CodeSubmit — Python Interview Questions](https://www.codesubmit.io/interview/python)
-6. 
+6. [Tpoint Tech — Python Interview Questions](https://www.tpointtech.com/python-interview-questions)
+7. 
 
