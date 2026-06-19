@@ -181,5 +181,7 @@ Enlisting all interview questions of 2026!
 7. [WsCube Tech — Python Interview Questions and Answers](https://www.wscubetech.com/blog/python-interview-questions-and-answers/)
 8. [Geekflare — Top Python Interview Questions](https://geekflare.com/dev/top-python-interview-questions/)
 9. [GeeksforGeeks — Python Interview Questions](https://www.geeksforgeeks.org/python/python-interview-questions/)
-10. 
+10. [EICTA IITK — Python Interview Questions and Answers](https://www.eicta.iitk.ac.in/knowledge-hub/artificial-intelligence/python-interview-questions-answers)
+
+## 
 
