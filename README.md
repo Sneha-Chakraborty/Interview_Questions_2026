@@ -183,5 +183,13 @@ Enlisting all interview questions of 2026!
 9. [GeeksforGeeks — Python Interview Questions](https://www.geeksforgeeks.org/python/python-interview-questions/)
 10. [EICTA IITK — Python Interview Questions and Answers](https://www.eicta.iitk.ac.in/knowledge-hub/artificial-intelligence/python-interview-questions-answers)
 
-## 
+## Numpy
+1.
 
+## Machine Learning
+1. 
+
+## Cybersecurity
+1. 
+
+## 
