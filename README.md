@@ -27,6 +27,10 @@ Enlisting all interview questions of 2026!
 6. [JavaScript Interview Questions - GitHub](https://github.com/sudheerj/javascript-interview-questions)
 
 
+## TailwindCSS
+1. [W4School — Tailwind Interview Questions](https://www.w4school.in/interview-questions/tailwind-interview-questions.php)
+2. 
+
 ## ReactJS
 
 1. [Simplilearn — ReactJS Interview Questions](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions)
