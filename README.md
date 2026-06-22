@@ -30,7 +30,8 @@ Enlisting all interview questions of 2026!
 ## TailwindCSS
 1. [W4School — Tailwind Interview Questions](https://www.w4school.in/interview-questions/tailwind-interview-questions.php)
 2. [Index.dev — Tailwind Interview Questions](https://www.index.dev/interview-questions/tailwind)
-3. 
+3. [GeeksforGeeks — Tailwind CSS Interview Questions and Answers](https://www.geeksforgeeks.org/css/tailwind-css-interview-questions-and-answers/)
+4. 
 
 ## ReactJS
 
