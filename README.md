@@ -33,6 +33,8 @@ Enlisting all interview questions of 2026!
 3. [GeeksforGeeks — Tailwind CSS Interview Questions and Answers](https://www.geeksforgeeks.org/css/tailwind-css-interview-questions-and-answers/)
 4. [TutorialsPoint — Tailwind CSS Interview Questions](https://www.tutorialspoint.com/tailwind_css/tailwind_css_interview_questions.htm)
 5. [HelloIntern — Tailwind CSS Interview Questions and Answers for Freshers](https://hellointern.in/blog/tailwind-css-interview-questions-and-answers-for-freshers-81814)
+6. [ShikshaTech — 100 Tailwind CSS Interview Questions](https://www.shikshatech.in/2026/04/100-tailwind-css-interview-questions.html)
+   
 
 ## ReactJS
 
