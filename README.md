@@ -178,7 +178,7 @@ Enlisting all interview questions of 2026!
 6. [GitGood — Top 50 Kubernetes Interview Questions 2026](https://gitgood.dev/blog/top-50-kubernetes-interview-questions-2026)
 7. [TpointTech — Kubernetes Interview Questions](https://www.tpointtech.com/kubernetes-interview-questions)
 8. [TasrieIT — Kubernetes Interview Questions 2026](https://tasrieit.com/blog/kubernetes-interview-questions-2026)
-9. 
+
 
 ## Python
 1. [InterviewBit — Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
