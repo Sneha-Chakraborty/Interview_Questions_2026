@@ -193,7 +193,8 @@ Enlisting all interview questions of 2026!
 10. [EICTA IITK — Python Interview Questions and Answers](https://www.eicta.iitk.ac.in/knowledge-hub/artificial-intelligence/python-interview-questions-answers)
 
 ## Numpy
-1.
+1. [PapersAdda — NumPy Interview Questions 2026](https://papersadda.com/article/numpy-interview-questions-2026/)
+2. 
 
 ## Machine Learning
 1. 
