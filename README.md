@@ -194,7 +194,7 @@ Enlisting all interview questions of 2026!
 
 ## Numpy
 1. [PapersAdda — NumPy Interview Questions 2026](https://papersadda.com/article/numpy-interview-questions-2026/)
-2. 
+2. [Devinterview.io — NumPy Interview Questions](https://github.com/Devinterview-io/numpy-interview-questions)
 
 ## Machine Learning
 1. 
