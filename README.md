@@ -196,7 +196,8 @@ Enlisting all interview questions of 2026!
 1. [PapersAdda — NumPy Interview Questions 2026](https://papersadda.com/article/numpy-interview-questions-2026/)
 2. [Devinterview.io — NumPy Interview Questions](https://github.com/Devinterview-io/numpy-interview-questions)
 3. [GeeksforGeeks — NumPy Interview Questions](https://www.geeksforgeeks.org/numpy/numpy-interview-questions/)
-4. 
+4. [FacePrep — Pandas NumPy Interview Questions for AI/ML Freshers 2026](https://faceprep.in/article/pandas-numpy-interview-questions-for-ai-ml-freshers-2026/)
+5. 
 
 ## Machine Learning
 1. 
