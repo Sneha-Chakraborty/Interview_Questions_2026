@@ -201,7 +201,8 @@ Enlisting all interview questions of 2026!
 
 ## Machine Learning
 1. [NetCom Learning — Machine Learning Interview Questions](https://www.netcomlearning.com/blog/machine-learning-interview-questions)
-2. 
+2. [Tpoint Tech — Machine Learning Interview Questions](https://www.tpointtech.com/machine-learning-interview-questions#google_vignette)
+3. 
 
 ## Cybersecurity
 1. 
