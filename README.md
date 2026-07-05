@@ -205,7 +205,8 @@ Enlisting all interview questions of 2026!
 3. [InterviewPal — 25 Machine Learning Interview Questions for 2026](https://blog.interviewpal.com/25-machine-learning-interview-questions-for-2026-and-how-senior-candidates-actually-answer-them/)
 4. [Agilemania — Machine Learning Interview Questions and Answers](https://agilemania.com/machine-learning-interview-questions-and-answers)
 5. [WeCreateProblems — Machine Learning Interview Questions](https://www.wecreateproblems.com/interview-questions/machine-learning-interview-questions)
-6. 
+6. [Cambridge Infotech — Machine Learning Interview Questions 2026](https://cambridgeinfotech.io/machine-learning-interview-questions-2026/)
+7. 
 
 ## Cybersecurity
 1. 
