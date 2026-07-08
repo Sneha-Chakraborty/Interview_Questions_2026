@@ -208,7 +208,8 @@ Enlisting all interview questions of 2026!
 6. [Cambridge Infotech — Machine Learning Interview Questions 2026](https://cambridgeinfotech.io/machine-learning-interview-questions-2026/)
 7. [Intellipaat — Machine Learning Interview Questions](https://intellipaat.com/blog/interview-question/machine-learning-interview-questions/)
 8. [GitHub — Machine Learning Interview Questions](https://github.com/andrewekhalel/MLQuestions)
-9. 
+9. [Tredence — Top 20 AI & Machine Learning Interview Questions 2026](https://www.tredence.com/blog/top-20-ai-machine-learning-interview-questions-2026)
+10. 
 
 ## Cybersecurity
 1. 
