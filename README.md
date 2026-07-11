@@ -214,6 +214,7 @@ Enlisting all interview questions of 2026!
 
 ## Cybersecurity
 1. [Cyber Interview Prep — Top 50 Cybersecurity Interview Questions 2026](https://cyberinterviewprep.com/resources/top-50-cybersecurity-interview-questions-2026)
-2. 
+2. [WeCreateProblems — Cybersecurity Interview Questions](https://www.wecreateproblems.com/interview-questions/cybersecurity-interview-questions)
+3. 
 
 ## 
