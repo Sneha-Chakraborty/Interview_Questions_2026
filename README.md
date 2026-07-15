@@ -218,6 +218,7 @@ Enlisting all interview questions of 2026!
 3. [Simplilearn — Cyber Security Interview Questions](https://www.simplilearn.com/tutorials/cyber-security-tutorial/cyber-security-interview-questions)
 4. [Craw Security — Top 100 Cybersecurity Interview Questions](https://www.craw.in/top-100-cybersecurity-interview-questions-by-craw-security)
 5. [The Ultimate Resources — Cybersecurity Interview Questions](https://www.theultimateresources.com/2026/04/cybersecurity-interview-questions)
-6. 
+6. [Intellipaat — Cyber Security Interview Questions](https://intellipaat.com/blog/interview-question/cyber-security-interview-questions/)
+7. 
 
 ## 
