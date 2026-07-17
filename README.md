@@ -220,6 +220,7 @@ Enlisting all interview questions of 2026!
 5. [The Ultimate Resources — Cybersecurity Interview Questions](https://www.theultimateresources.com/2026/04/cybersecurity-interview-questions)
 6. [Intellipaat — Cyber Security Interview Questions](https://intellipaat.com/blog/interview-question/cyber-security-interview-questions/)
 7. [Amity Online — Cyber Security Interview Questions and Answers](https://amityonline.com/blog/cyber-security-interview-question-answer)
-8. 
+8. [NW Kings — Top 50 Cyber Security Interview Questions for 2026](https://www.nwkings.com/top-50-cyber-security-interview-questions-for-2026/)
+9. 
 
 ## 
