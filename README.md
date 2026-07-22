@@ -225,6 +225,7 @@ Enlisting all interview questions of 2026!
 10. [Nucamp — Top 25 Cybersecurity Interview Questions in 2026](https://www.nucamp.co/blog/top-25-cybersecurity-interview-questions-in-2026-with-how-to-answer)
 11. [GeeksforGeeks — Cyber Security Interview Questions](https://www.geeksforgeeks.org/cybersecurity/cyber-security-interview-questions/)
 12. [TechGeekBuzz — Cybersecurity Interview Questions](https://www.techgeekbuzz.com/blog/cybersecurity-interview-questions/)
-13. 
+13. [Inspiria — Cyber Security Interview Questions](https://inspiria.edu.in/cyber-security-interview-questions/)
+14. 
 
 ## 
