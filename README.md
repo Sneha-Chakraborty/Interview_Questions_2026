@@ -226,6 +226,7 @@ Enlisting all interview questions of 2026!
 11. [GeeksforGeeks — Cyber Security Interview Questions](https://www.geeksforgeeks.org/cybersecurity/cyber-security-interview-questions/)
 12. [TechGeekBuzz — Cybersecurity Interview Questions](https://www.techgeekbuzz.com/blog/cybersecurity-interview-questions/)
 13. [Inspiria — Cyber Security Interview Questions](https://inspiria.edu.in/cyber-security-interview-questions/)
-14. 
+14. [DigitalDefynd — Top Cybersecurity Interview Questions and Answers](https://digitaldefynd.com/IQ/top-cybersecurity-interview-questions-and-answers/)
 
-## 
+## Cryptography
+1. 
