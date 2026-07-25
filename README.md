@@ -230,4 +230,5 @@ Enlisting all interview questions of 2026!
 
 ## Cryptography
 1. [Devinterview.io — Cryptography Interview Questions](https://github.com/Devinterview-io/cryptography-interview-questions)
-2. 
+2. [JavaInUse — Cryptography Interview Questions](https://www.javainuse.com/interview/cryptography)
+3. 
