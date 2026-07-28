@@ -233,4 +233,5 @@ Enlisting all interview questions of 2026!
 2. [JavaInUse — Cryptography Interview Questions](https://www.javainuse.com/interview/cryptography)
 3. [InfosecTrain — Top Cryptography Interview Questions](https://www.infosectrain.com/blog/top-cryptography-interview-questions)
 4. [Cyber Interview Prep — Cryptography Authentication Interview Questions](https://cyberinterviewprep.com/resources/cryptography-authentication-interview-questions)
-5. 
+5. [CertMage — Cybersecurity Interview Questions](https://certmage.com/cybersecurity-interview-questions/)
+6. 
