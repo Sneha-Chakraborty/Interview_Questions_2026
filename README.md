@@ -234,4 +234,5 @@ Enlisting all interview questions of 2026!
 3. [InfosecTrain — Top Cryptography Interview Questions](https://www.infosectrain.com/blog/top-cryptography-interview-questions)
 4. [Cyber Interview Prep — Cryptography Authentication Interview Questions](https://cyberinterviewprep.com/resources/cryptography-authentication-interview-questions)
 5. [MindMajix — Cryptography Interview Questions](https://mindmajix.com/cryptography-interview-questions)
-6. 
+6. [MeritShot — Fundamentals of Cryptography](https://www.meritshot.com/interview-guides/fundamentals-of-cryptography)
+7. 
