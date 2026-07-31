@@ -236,3 +236,6 @@ Enlisting all interview questions of 2026!
 5. [MindMajix — Cryptography Interview Questions](https://mindmajix.com/cryptography-interview-questions)
 6. [MeritShot — Fundamentals of Cryptography](https://www.meritshot.com/interview-guides/fundamentals-of-cryptography)
 7. [ResumeDesign.ai — Cryptography Interview Questions](https://resumedesign.ai/interview-questions/cryptography/)
+
+## GoLang
+1. 
