@@ -238,4 +238,5 @@ Enlisting all interview questions of 2026!
 7. [ResumeDesign.ai — Cryptography Interview Questions](https://resumedesign.ai/interview-questions/cryptography/)
 
 ## GoLang
-1. 
+1. [CodeForGeek — Golang Interview Questions](https://codeforgeek.com/golang-interview-questions/)
+2. 
