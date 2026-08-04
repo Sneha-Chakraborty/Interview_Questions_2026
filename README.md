@@ -241,4 +241,5 @@ Enlisting all interview questions of 2026!
 1. [CodeForGeek — Golang Interview Questions](https://codeforgeek.com/golang-interview-questions/)
 2. [WeCreateProblems — Golang Interview Questions](https://www.wecreateproblems.com/interview-questions/golang-interview-questions)
 3. [TestMu AI — Golang Interview Questions](https://www.testmuai.com/learning-hub/golang-interview-questions/)
-4. 
+4. [PapersAdda — Golang Interview Questions 2026](https://papersadda.com/article/golang-interview-questions-2026/)
+5. 
