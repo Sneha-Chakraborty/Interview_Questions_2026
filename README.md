@@ -243,4 +243,5 @@ Enlisting all interview questions of 2026!
 3. [TestMu AI — Golang Interview Questions](https://www.testmuai.com/learning-hub/golang-interview-questions/)
 4. [PapersAdda — Golang Interview Questions 2026](https://papersadda.com/article/golang-interview-questions-2026/)
 5. [Guru99 — Golang Interview Questions](https://www.guru99.com/golang-interview-questions.html)
-6. 
+6. [GitGood — Top 50 Go Interview Questions 2026](https://gitgood.dev/blog/top-50-go-interview-questions-2026)
+7. 
