@@ -239,7 +239,8 @@ Enlisting all interview questions of 2026!
 
 ## Networking
 1. [InterviewQuestions.Guru — Networking Interview Questions and Answers](https://interviewquestions.guru/networking-interview-questions-answers/)
-2. 
+2. [Naukri — Networking Interview Questions and Answers](https://www.naukri.com/blog/networking-interview-questions-and-answers/)
+3. 
 
 ## GoLang
 1. [CodeForGeek — Golang Interview Questions](https://codeforgeek.com/golang-interview-questions/)
