@@ -244,7 +244,8 @@ Enlisting all interview questions of 2026!
 4. [WeCreateProblems — Networking Interview Questions](https://www.wecreateproblems.com/interview-questions/networking-interview-questions)
 5. [InterviewBit — Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
 6. [Guru99 — Networking Interview Questions](https://www.guru99.com/networking-interview-questions.html)
-7. 
+7. [GeeksforGeeks — Networking Interview Questions](https://www.geeksforgeeks.org/blogs/networking-interview-questions/)
+8. 
 
 
 ## GoLang
