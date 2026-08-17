@@ -246,7 +246,7 @@ Enlisting all interview questions of 2026!
 6. [Guru99 — Networking Interview Questions](https://www.guru99.com/networking-interview-questions.html)
 7. [GeeksforGeeks — Networking Interview Questions](https://www.geeksforgeeks.org/blogs/networking-interview-questions/)
 8. [PapersAdda — Networking Interview Questions 2026](https://papersadda.com/article/networking-interview-questions-2026/)
-9. 
+9. [Hackr.io — Networking Interview Questions](https://hackr.io/blog/networking-interview-questions)
 
 
 ## GoLang
