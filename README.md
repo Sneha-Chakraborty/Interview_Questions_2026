@@ -197,7 +197,10 @@ Enlisting all interview questions of 2026!
 2. [Devinterview.io — NumPy Interview Questions](https://github.com/Devinterview-io/numpy-interview-questions)
 3. [GeeksforGeeks — NumPy Interview Questions](https://www.geeksforgeeks.org/numpy/numpy-interview-questions/)
 4. [FacePrep — Pandas NumPy Interview Questions for AI/ML Freshers 2026](https://faceprep.in/article/pandas-numpy-interview-questions-for-ai-ml-freshers-2026/)
-5. 
+
+## Pytorch
+1. [Devinterview.io — PyTorch Interview Questions](https://github.com/Devinterview-io/pytorch-interview-questions)
+2. 
 
 ## Machine Learning
 1. [NetCom Learning — Machine Learning Interview Questions](https://www.netcomlearning.com/blog/machine-learning-interview-questions)
