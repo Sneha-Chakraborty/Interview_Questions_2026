@@ -200,7 +200,8 @@ Enlisting all interview questions of 2026!
 
 ## Pytorch
 1. [Devinterview.io — PyTorch Interview Questions](https://github.com/Devinterview-io/pytorch-interview-questions)
-2. 
+2. [PyTorch Interview Questions 2026: 28 Answers with Code | PA](https://papersadda.com/article/pytorch-interview-questions-2026/)
+3. 
 
 ## Machine Learning
 1. [NetCom Learning — Machine Learning Interview Questions](https://www.netcomlearning.com/blog/machine-learning-interview-questions)
