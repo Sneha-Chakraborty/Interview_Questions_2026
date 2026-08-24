@@ -243,6 +243,11 @@ Enlisting all interview questions of 2026!
 6. [MeritShot — Fundamentals of Cryptography](https://www.meritshot.com/interview-guides/fundamentals-of-cryptography)
 7. [ResumeDesign.ai — Cryptography Interview Questions](https://resumedesign.ai/interview-questions/cryptography/)
 
+## Post-Quantum Cryptography
+1. [Cyber Interview Prep — Quantum-Safe Cryptography: Interview Questions, Algorithms & 2026 Trends](https://cyberinterviewprep.com/resources/quantum-safe-cryptography-basics-2026)
+2. [ClavePrep — Post-Quantum Cryptography Jobs 2026: Career and Interview Guide](https://claveprep.com/blog/post-quantum-cryptography-engineer-interview-guide-2026)
+3. 
+
 ## Networking
 1. [InterviewQuestions.Guru — Networking Interview Questions and Answers](https://interviewquestions.guru/networking-interview-questions-answers/)
 2. [Naukri — Networking Interview Questions and Answers](https://www.naukri.com/blog/networking-interview-questions-and-answers/)
