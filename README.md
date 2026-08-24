@@ -248,6 +248,11 @@ Enlisting all interview questions of 2026!
 2. [ClavePrep — Post-Quantum Cryptography Jobs 2026: Career and Interview Guide](https://claveprep.com/blog/post-quantum-cryptography-engineer-interview-guide-2026)
 3. 
 
+## Zero Trust
+1. [Cyber Interview Prep — Zero Trust Architecture Interview Questions 2026](https://cyberinterviewprep.com/resources/zero-trust-architecture-interview-scenarios)
+2. [WeCreateProblems — 100+ Zero Trust Architecture Interview Questions and Answers 2026](https://www.wecreateproblems.com/interview-questions/zero-trust-architecture-interview-questions)
+3. 
+
 ## Networking
 1. [InterviewQuestions.Guru — Networking Interview Questions and Answers](https://interviewquestions.guru/networking-interview-questions-answers/)
 2. [Naukri — Networking Interview Questions and Answers](https://www.naukri.com/blog/networking-interview-questions-and-answers/)
