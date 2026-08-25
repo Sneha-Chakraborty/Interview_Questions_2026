@@ -246,12 +246,14 @@ Enlisting all interview questions of 2026!
 ## Post-Quantum Cryptography
 1. [Cyber Interview Prep — Quantum-Safe Cryptography: Interview Questions, Algorithms & 2026 Trends](https://cyberinterviewprep.com/resources/quantum-safe-cryptography-basics-2026)
 2. [ClavePrep — Post-Quantum Cryptography Jobs 2026: Career and Interview Guide](https://claveprep.com/blog/post-quantum-cryptography-engineer-interview-guide-2026)
-3. 
+3. [PerfectNotes — Post-Quantum Cryptography MCQs 2026](https://perfectnotes.org/mcq/cybersecurity/post-quantum-cryptography)
+4. 
 
 ## Zero Trust
 1. [Cyber Interview Prep — Zero Trust Architecture Interview Questions 2026](https://cyberinterviewprep.com/resources/zero-trust-architecture-interview-scenarios)
 2. [WeCreateProblems — 100+ Zero Trust Architecture Interview Questions and Answers 2026](https://www.wecreateproblems.com/interview-questions/zero-trust-architecture-interview-questions)
-3. 
+3. [The Ultimate Resources — Top 25 Cybersecurity Interview Questions 2026](https://www.theultimateresources.com/2026/04/cybersecurity-interview-questions)
+4. 
 
 ## Networking
 1. [InterviewQuestions.Guru — Networking Interview Questions and Answers](https://interviewquestions.guru/networking-interview-questions-answers/)
